@@ -1,9 +1,9 @@
 <br />
 <p align="center">
-  <img width="250px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />
+  <img width="350px" src="https://i.ibb.co/qD0jywm/docker-inside.png" />
 </p>
 
-# Intranet Inside - Docker
+# Intranet Inside Docker
 
 Run intranet inside instances using docker.
 
